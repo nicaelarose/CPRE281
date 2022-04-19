@@ -1,0 +1,16 @@
+|mux4to1
+W0 => F.IN1
+W1 => F.IN1
+W2 => F.IN1
+W3 => F.IN1
+S1 => F.IN0
+S1 => F.IN0
+S1 => F.IN0
+S1 => F.IN0
+S0 => F.IN1
+S0 => F.IN1
+S0 => F.IN1
+S0 => F.IN1
+F <= F.DB_MAX_OUTPUT_PORT_TYPE
+
+
