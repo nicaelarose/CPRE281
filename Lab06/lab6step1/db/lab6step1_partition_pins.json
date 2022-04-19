@@ -1,0 +1,153 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "HEX7_A",
+					"strict" : false
+				},
+				{
+					"name" : "HEX7_B",
+					"strict" : false
+				},
+				{
+					"name" : "HEX7_C",
+					"strict" : false
+				},
+				{
+					"name" : "HEX7_D",
+					"strict" : false
+				},
+				{
+					"name" : "HEX7_E",
+					"strict" : false
+				},
+				{
+					"name" : "HEX7_F",
+					"strict" : false
+				},
+				{
+					"name" : "HEX7_G",
+					"strict" : false
+				},
+				{
+					"name" : "HEX6_A",
+					"strict" : false
+				},
+				{
+					"name" : "HEX6_B",
+					"strict" : false
+				},
+				{
+					"name" : "HEX6_C",
+					"strict" : false
+				},
+				{
+					"name" : "HEX6_D",
+					"strict" : false
+				},
+				{
+					"name" : "HEX6_E",
+					"strict" : false
+				},
+				{
+					"name" : "HEX6_F",
+					"strict" : false
+				},
+				{
+					"name" : "HEX6_G",
+					"strict" : false
+				},
+				{
+					"name" : "HEX5_A",
+					"strict" : false
+				},
+				{
+					"name" : "HEX5_C",
+					"strict" : false
+				},
+				{
+					"name" : "HEX5_D",
+					"strict" : false
+				},
+				{
+					"name" : "HEX5_E",
+					"strict" : false
+				},
+				{
+					"name" : "HEX5_F",
+					"strict" : false
+				},
+				{
+					"name" : "HEX5_G",
+					"strict" : false
+				},
+				{
+					"name" : "HEX4_A",
+					"strict" : false
+				},
+				{
+					"name" : "HEX4_B",
+					"strict" : false
+				},
+				{
+					"name" : "HEX4_C",
+					"strict" : false
+				},
+				{
+					"name" : "HEX4_D",
+					"strict" : false
+				},
+				{
+					"name" : "HEX4_E",
+					"strict" : false
+				},
+				{
+					"name" : "HEX4_F",
+					"strict" : false
+				},
+				{
+					"name" : "HEX4_G",
+					"strict" : false
+				},
+				{
+					"name" : "HEX7_W",
+					"strict" : false
+				},
+				{
+					"name" : "HEX7_X",
+					"strict" : false
+				},
+				{
+					"name" : "HEX7_Y",
+					"strict" : false
+				},
+				{
+					"name" : "HEX7_Z",
+					"strict" : false
+				},
+				{
+					"name" : "HEX6_W",
+					"strict" : false
+				},
+				{
+					"name" : "HEX6_X",
+					"strict" : false
+				},
+				{
+					"name" : "HEX6_Y",
+					"strict" : false
+				},
+				{
+					"name" : "HEX6_Z",
+					"strict" : false
+				},
+				{
+					"name" : "Ci",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
